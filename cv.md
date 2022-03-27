@@ -19,7 +19,7 @@ I am learning JS/Front-end with rs-school and this year I'll be programmer
 - HTML
 - CSS
 - JavaScript (Basic)
-- Git
+- Git (Basic)
 
 
 ## Code Example
